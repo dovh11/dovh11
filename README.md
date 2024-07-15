@@ -1,4 +1,4 @@
-## Hi there 👋
+## I am presently pursuing a degree in Computer Science, specializing in Artificial Intelligence and Data Science, at Phenikaa University. 😄
 
 <!--
 **dovh11/dovh11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
