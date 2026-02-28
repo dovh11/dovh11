@@ -15,7 +15,7 @@ I am a driven Computer Science undergraduate specializing in Artificial Intellig
     
 -   💡 **My mindset:** I love translating state-of-the-art AI research and complex machine learning architectures into functional, code-driven solutions.
     
--   📫 **How to reach me:** [dovh11o@gmail.com](mailto:dovh11o@gmail.com "null") | [LinkedIn](https://www.google.com/search?q=https://linkedin.com/in/dovh11 "null")
+-   📫 **How to reach me:** [dovh11o@gmail.com](mailto:dovh11o@gmail.com "null") | [LinkedIn](https://linkedin.com/in/dovh11/)
     
 
 ## 🛠️ Tech Stack & Skills
