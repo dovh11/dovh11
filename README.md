@@ -3,7 +3,7 @@
 <h3 align="center">AI Engineer | Computer Science Undergrad @ Phenikaa University</h3>
 
 <p align="center">
-  Passionate about bridging the gap between research and production, building robust Machine Learning pipelines, and exploring the frontiers of Generative AI.
+  Passionate about AI Engineering, building robust Machine Learning pipelines, and developing scalable Generative AI solutions for real-world applications.
 </p>
 
 ---
