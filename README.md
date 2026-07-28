@@ -1,5 +1,28 @@
+<h1 align="center">Hi there, I'm Vu Huy Do! 👋</h1>
 
-# Hi there, I'm Vu Huy Do 👋
+<h3 align="center">AI Engineer | Computer Science Undergrad @ Phenikaa University</h3>
 
-    
+<p align="center">
+  Passionate about bridging the gap between research and production, building robust Machine Learning pipelines, and exploring the frontiers of Generative AI.
+</p>
 
+---
+
+### 🎓 Education
+- **Bachelor of Computer Science** — Specialization in AI & Data Science
+- **Phenikaa University**, Hanoi, Vietnam *(Expected Graduation: Aug 2027)*
+
+### 🛠️ Technical Stack
+
+| Category | Technologies |
+| :--- | :--- |
+| **🤖 Generative AI & LLMs** | Agentic RAG, LangGraph, LangChain, LlamaIndex, Dense Vector Retrieval, Contextual Memory |
+| **🧠 AI/ML Frameworks & Tools** | PyTorch, TensorFlow, YOLO11, ONNX Runtime, Qdrant Cloud, LlamaParse, Physics-Informed Neural Networks (PINNs) |
+| **💻 Programming Languages** | Python (Advanced), C/C++, SQL |
+| **⚙️ Software & MLOps** | FastAPI, RESTful APIs, Docker, Docker Compose, Git, Linux/Bash |
+
+---
+
+### 📫 Let's Connect
+- **LinkedIn:** [linkedin.com/in/dovh11](https://linkedin.com/in/dovh11)
+- **Email:** dovh11x@gmail.com
