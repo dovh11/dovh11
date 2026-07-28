@@ -9,8 +9,10 @@
 ---
 
 ### 🎓 Education
-- **Bachelor of Computer Science** — Specialization in AI & Data Science
-- **Phenikaa University**, Hanoi, Vietnam *(Expected Graduation: Aug 2027)*
+
+**Phenikaa University** | *Hanoi, Vietnam*
+- **Degree:** Bachelor of Computer Science, Specialization in AI & Data Science
+- **Timeline:** Sep 2023 - Aug 2027 (Expected)
 
 ### 🛠️ Technical Stack
 
