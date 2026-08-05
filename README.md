@@ -18,10 +18,10 @@
 
 | Category | Technologies |
 | :--- | :--- |
-| **🤖 Generative AI & LLMs** | Agentic RAG, LangGraph, LangChain, LlamaIndex, Dense Vector Retrieval, Contextual Memory |
-| **🧠 AI/ML Frameworks & Tools** | PyTorch, TensorFlow, YOLO11, ONNX Runtime, Qdrant Cloud, LlamaParse, Physics-Informed Neural Networks (PINNs) |
-| **💻 Programming Languages** | Python (Advanced), C/C++, SQL |
-| **⚙️ Software & MLOps** | FastAPI, RESTful APIs, Docker, Docker Compose, Git, Linux/Bash |
+| **🤖 GenAI, LLMs & Agentic Systems** | Agentic RAG, LangGraph, LangChain, LlamaIndex, Dense Vector Retrieval, Semantic Search, Prompt Engineering |
+| **🧠 Machine Learning & Computer Vision** | Model Fine-tuning, Quantization, Object Detection, Text Classification, Feature Engineering, Model Evaluation |
+| **🛠️ Frameworks, Tools & Databases** | PyTorch, TensorFlow, Scikit-learn, OpenCV, YOLO11, Qdrant Cloud, LlamaParse, Groq API |
+| **💻 Languages, Backend & MLOps** | Python (Advanced), C/C++, SQL, JavaScript/HTML/CSS, FastAPI, ONNX Runtime, Docker, Git, Linux |
 
 ---
 
