@@ -26,5 +26,5 @@
 ---
 
 ### 📫 Let's Connect
-- **LinkedIn:** [linkedin.com/in/dovh11](https://linkedin.com/in/dovh11)
-- **Email:** dovh11x@gmail.com
+- **LinkedIn:** [linkedin.com/in/dovh25](https://linkedin.com/in/dovh25)
+- **Email:** dovh25@gmail.com
